@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **BrianLee1008/BrianLee1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
