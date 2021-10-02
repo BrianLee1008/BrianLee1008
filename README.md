@@ -1,12 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=150&section=header&text=Brooklyn&fontSize=65&fontColor=ffffff&fontAlign=50)
 
-</br>
-</br>
-</br>
-
-
-
-
 ### <!--<h3 align="center">--><b>💾 Tech Stack 💾</b></h3>
 </br>
 <!--<p align="center">-->
