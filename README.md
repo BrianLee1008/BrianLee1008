@@ -14,4 +14,4 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=flat-square&logo=IntelliJ IDEA&logoColor=E2D2D2"/>
 <img src="https://img.shields.io/badge/VSCode-black?style=flat-square&logo=Visual Studio Code&logoColor=007ACC"/>
 <img src="https://img.shields.io/badge/PostMan-black?style=flat-square&logo=Postman&logoColor=FF6C37"/>
-<img src="https://img.shields.io/badge/Anaconda-black?style=flat-square&logo=Anaconda&logoColor=44A833"/>
+<!-- <img src="https://img.shields.io/badge/Anaconda-black?style=flat-square&logo=Anaconda&logoColor=44A833"/> -->
